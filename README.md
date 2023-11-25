@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Diogo e sou academico de Ciencias da Computação.
 - 👀 Eu tenho interesse em desenvolvimento de sistemas Web.
-- 🌱 Atualmente estou aprendendo a desenvolver aplicações web com ASP.NET CORE (MVC).
+- 🌱 Atualmente estou aprendendo a desenvolver aplicações web com ASP.NET CORE (MVC), Entity Framework.
 - 📫 Meu e-mail para contato diogolobo444@gmail.com.
 
 <!---
