@@ -9,7 +9,15 @@
 </p>
 </div>
 
-
+## BEM VINDO AO MEU GITHUB
 
 ![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
+
+<p></p>
+
+<div>
+<a href="https://github.com/Brunopol">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudiogolobo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eudiogolobo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
