@@ -6,6 +6,10 @@
   <a href="https://www.linkedin.com/in/eudiogolobo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 </div>
+## Bem-vindo
+<div>
+<p>Me chamo Diogo João Lobo, formado no Ensino Técnico em T.I pela CEDUP Abílio Paulo. Atualmente sou acadêmico do curso de Ciências da Computação na Universidade do Extremo Sul Catarinense (UNESC). Desenvolvo alguns projetos particulares, sou estagiário em laboratório maker na prefeitura municipal de Criciúma, com experiência em três dos principais frameworks: Delphi, Laravel e Windows Forms. Cursei diversos cursos gratuitos no YouTube como: PHP Moderno, HTML5, CSS3, Javascript, AJAX, Laravel, Delphi, Windows Forms .NET.</p>
+</div>
 
 ## BEM VINDO AO MEU GITHUB
 
@@ -20,10 +24,6 @@
 </div>
 <p></p>
 
-## EU
-<div>
-<p>Me chamo Diogo João Lobo, formado no Ensino Técnico em T.I pela CEDUP Abílio Paulo. Atualmente sou acadêmico do curso de Ciências da Computação na Universidade do Extremo Sul Catarinense (UNESC). Desenvolvo alguns projetos particulares, sou estagiário em laboratório maker na prefeitura municipal de Criciúma, com experiência em três dos principais frameworks: Delphi, Laravel e Windows Forms. Cursei diversos cursos gratuitos no YouTube como: PHP Moderno, HTML5, CSS3, Javascript, AJAX, Laravel, Delphi, Windows Forms .NET.</p>
-</div>
 
 
 
