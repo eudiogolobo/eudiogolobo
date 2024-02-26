@@ -11,9 +11,8 @@
 
 ![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
 
-<p></p>
 <p>Me chamo Diogo João Lobo, formado no Ensino Técnico em T.I pela CEDUP Abílio Paulo. Atualmente sou acadêmico do curso de Ciências da Computação na Universidade do Extremo Sul Catarinense (UNESC). Desenvolvo alguns projetos particulares, sou estagiário em laboratório maker na prefeitura municipal de Criciúma, com experiência em três dos principais frameworks: Delphi, Laravel e Windows Forms. Cursei diversos cursos gratuitos no YouTube como: PHP Moderno, HTML5, CSS3, Javascript, AJAX, Laravel, Delphi, Windows Forms .NET.</p>
-<p></p>
+
 <div>
 <a href="https://github.com/eudiogolobo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudiogolobo&layout=compact&langs_count=7&theme=dracula"/>
