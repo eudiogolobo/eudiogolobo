@@ -11,6 +11,9 @@
 
 <p>Me chamo Diogo João Lobo, formado no Ensino Técnico em T.I pela CEDUP Abílio Paulo. Atualmente sou acadêmico do curso de Ciências da Computação na Universidade do Extremo Sul Catarinense (UNESC). Desenvolvo alguns projetos particulares, sou estagiário em laboratório maker na prefeitura municipal de Criciúma, com experiência em três dos principais frameworks: Delphi, Laravel e Windows Forms. Cursei diversos cursos gratuitos no YouTube como: PHP Moderno, HTML5, CSS3, Javascript, AJAX, Laravel, Delphi, Windows Forms .NET.</p>
 
+## TECNOLOGIAS E FERRAMENTAS
+<img src="https://img.shields.io/badge/CSharp-E34F26?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Android-1572B6?style=for-the-badge&logo=android&logoColor=green"> <img src="https://img.shields.io/badge/AspNetCore-DD0031?style=for-the-badge&logo=AspNet&logoColor=white"> <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=csharp&logoColor=White">
+
 ![Snake animation](https://github.com/dfilitto/dfilitto/blob/output/github-contribution-grid-snake.svg)
 
 <div>
