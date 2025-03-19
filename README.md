@@ -9,7 +9,7 @@
 
 ## BEM VINDO AO MEU GITHUB
 
-<p>Me chamo Diogo João Lobo, formado no Ensino Técnico em T.I pelo CEDUP Abílio Paulo. Atualmente sou acadêmico do curso de Ciências da Computação na Universidade do Extremo Sul Catarinense (UNESC). Desenvolvo alguns projetos particulares, sou estagiário em laboratório maker na prefeitura municipal de Criciúma, com experiência em três dos principais frameworks: Delphi, Laravel e Windows Forms. Cursei diversos cursos gratuitos no YouTube como: PHP Moderno, HTML5, CSS3, Javascript, AJAX, Laravel, Delphi, Windows Forms .NET.</p>
+<p>Me chamo Diogo João Lobo, formado no Ensino Técnico em T.I pelo CEDUP Abílio Paulo. Atualmente sou acadêmico do curso de Ciência da Computação na Universidade do Extremo Sul Catarinense (UNESC). Desenvolvo alguns projetos particulares, sou engenheiro de software na   <a href="https://satnew.com.br" target="_blank">SATNEW</a> e atualmente lidero os principais projeto da empresa, tanto B2B quanto B2C, sendo um deles a plataforma de gestão de frotas/ monitoramento. Com experiência em três dos principais frameworks: Laravel, Delphi e Windows Forms. Cursei diversos cursos gratuitos no YouTube como: PHP Moderno, HTML5, CSS3, Javascript, AJAX, Laravel, Delphi, Windows Forms .NET.</p>
 
 ## TECNOLOGIAS E FERRAMENTAS
 
